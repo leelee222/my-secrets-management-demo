@@ -1,0 +1,11 @@
+soft-fail-on:
+  - CKV_AWS_109
+
+compact: true
+output: cli
+
+framework:
+  - terraform
+
+directory:
+  - ./terraform
