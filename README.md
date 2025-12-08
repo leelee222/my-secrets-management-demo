@@ -1,11 +1,5 @@
 ### Secure Secret Management + Compliance Automation in a DevSecOps Pipeline
 
-*A hands-on project demonstrating secure secret handling using AWS Secrets Manager, Terraform, and GitHub Actions.*
-
----
-
-## **Project Overview**
-
 This project implements a **secure secret management workflow** using an AWS-native approach.
 The goal is to store, retrieve, and validate secrets *without ever exposing them*, while also enforcing compliance and security checks through CI/CD.
 
@@ -174,10 +168,9 @@ This project is part of my **Advanced DevSecOps Month (Month 3)** and lays the f
 
 * Monitoring & logging automation
 * Vulnerability management
-* Full DevSecOps portfolio build-out
 
 ---
 
 ## **Want to Connect?**
 
-I'm actively building my DevSecOps skillset — if you're hiring, collaborating, or curious about the workflow, feel free to reach out.
+I'm actively building my DevSecOps skillset - if you're hiring, collaborating, or curious about the workflow, feel free to reach out.
